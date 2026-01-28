@@ -1,0 +1,51 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class"
+
+generations:
+  - name: "First Generation (W168)"
+    start_year: 1997
+    end_year: 2004
+    description: "The first generation A-Class was introduced in 1997 at the Frankfurt Motor Show. Internally coded W168, it featured a front-wheel drive layout with an unusual tall but short body design. The A-Class was marketed as the brand's entry-level vehicle with interior volume competing with larger cars. Approximately 1.1 million first generation models were sold between 1997 and 2004. A facelift was introduced in February 2001 with minor alterations to headlights, bumpers, and a new long wheelbase version."
+    platform: "W168"
+    models:
+      - name: "A 190"
+        engine: "1.9L I4 petrol"
+        years: "1999–2004"
+        notes: "Larger displacement petrol model added in 1999"
+
+  - name: "Second Generation (W169)"
+    start_year: 2004
+    end_year: 2012
+    description: "The second generation A-Class (W169) was introduced in September 2004, constructed with high-strength steel alloys and bonded joints. This generation featured improved safety systems including adaptive front airbags, active head restraints, and electronic stability control as standard. Seven four-cylinder engines were available including the A 200 and A 200 Turbo. A facelift in 2008 included redesigned fascias, lights, and optional stop-start function."
+    platform: "W169"
+    models:
+      - name: "A 200"
+        engine: "2.0L I4 petrol"
+        years: "2004–2012"
+        notes: "100 kW (136 PS) at 5,750 rpm, 9.9 seconds 0-100 km/h"
+      - name: "A 200 Turbo"
+        engine: "2.0L turbo I4 petrol"
+        years: "2004–2012"
+        notes: "142 kW (190 PS), 8.0 seconds 0-100 km/h"
+
+  - name: "Third Generation (W176)"
+    start_year: 2012
+    end_year: 2018
+    description: "The third generation A-Class (W176) was introduced at the 2012 Geneva Motor Show as a subcompact executive C-segment model, larger than previous B-segment generations. Based on the Mercedes-Benz MFA platform, it was available only as a 5-door hatchback due to decreasing popularity of 3-door models. A facelift was presented in Q3 2015 with updated lights and technology. Production ended May 2018 in Germany."
+    platform: "W176"
+    models:
+      - name: "A 200"
+        engine: "1.6L turbo I4 petrol / 2.0L turbo I4 petrol"
+        years: "2012–2018"
+        notes: "Multiple engine options depending on market"
+
+  - name: "Fourth Generation (W177)"
+    start_year: 2018
+    end_year: null
+    description: "The fourth generation A-Class (W177) was launched in March 2018, marking the first time the A-Class was offered in the United States and Canada. Available as a 5-door hatchback (W177), 4-door sedan (V177), and long-wheelbase sedan for China (Z177). The design featured Mercedes-Benz's 'predator face' design language. In North America, only the sedan is available in the US while both hatchback and sedan are available in Canada."
+    platform: "W177"
+    models:
+      - name: "A 200"
+        engine: "1.3L turbo I4 petrol / 2.0L turbo I4 petrol"
+        years: "2018–present"
+        notes: "Multiple engine options depending on market"
